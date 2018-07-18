@@ -1,0 +1,141 @@
+{
+	"client": "./client",
+	"svr": "./server",
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxbf8b963bc2374940",
+	"projectname": "wafer%20php%20demo",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": 0,
+					"name": "pages/connect/connect",
+					"pathName": "pages/connect/connect",
+					"query": ""
+				},
+				{
+					"id": 1,
+					"name": "pages/index/index",
+					"pathName": "pages/index/index",
+					"query": ""
+				},
+				{
+					"id": 2,
+					"name": "admin/index/index",
+					"pathName": "pages/admin/index/index",
+					"query": ""
+				},
+				{
+					"id": 3,
+					"name": "pages/teacher/index/index",
+					"pathName": "pages/teacher/index/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/student/index/index",
+					"pathName": "pages/student/index/index",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/teacher/mark/mark",
+					"pathName": "pages/teacher/mark/mark",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/teacher/mark/mark",
+					"pathName": "pages/teacher/mark/mark",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/core/core",
+					"pathName": "pages/admin/core/core",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/changecourse/change",
+					"pathName": "pages/admin/changecourse/change",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/addcourse/add",
+					"pathName": "pages/admin/addcourse/add",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/passwordrset/passwordrset",
+					"pathName": "pages/admin/passwordrset/passwordrset",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/teacheradmin/editteacher/editteacher",
+					"pathName": "pages/admin/teacheradmin/editteacher/editteacher",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/teacheradmin/showteacher/showteacher",
+					"pathName": "pages/admin/teacheradmin/showteacher/showteacher",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/teacher/gradecourse/gradecourse",
+					"pathName": "pages/teacher/gradecourse/gradecourse",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/teacheradmin/deleteteacher/deleteteacher",
+					"pathName": "pages/admin/teacheradmin/deleteteacher/deleteteacher",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/teacheradmin/addteacher/addteacher",
+					"pathName": "pages/admin/teacheradmin/addteacher/addteacher",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/studentadmin/showstudent/showstudent",
+					"pathName": "pages/admin/studentadmin/showstudent/showstudent",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/admin/index/index",
+					"pathName": "pages/admin/index/index",
+					"query": ""
+				}
+			]
+		}
+	}
+}
